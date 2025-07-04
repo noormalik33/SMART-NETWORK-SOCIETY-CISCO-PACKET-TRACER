@@ -73,16 +73,22 @@ This project aims to build a **comprehensive smart campus network** that offers:
 
 ---
 
-## 👩‍💻 Team Members
+ ## 👩‍💻 Author
 
 **Noor Malik**  
+IT Student  
 📍 Islamabad, Pakistan  
-📧 noormalik56500@gmail.com  
+📧 Email: noormalik56500@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/noormalik56500/)
 
+
+
+## 👩‍💻 Team Member
  **Ghulam Qadir**  
-  📍 Rawalpindi, Pakistan  
-  📧 [LinkedIn](https://www.linkedin.com/in/ghulam-qadir-07a982365/)
+ IT Student  
+📍 Rawalpindi, Pakistan  
+📧 [LinkedIn](https://www.linkedin.com/in/ghulam-qadir-07a982365/)
+
 
 
 ---
